@@ -1,0 +1,15 @@
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/oops-concepts/bin/Debug/net7.0/oops-concepts
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/oops-concepts/bin/Debug/net7.0/oops-concepts.deps.json
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/oops-concepts/bin/Debug/net7.0/oops-concepts.runtimeconfig.json
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/oops-concepts/bin/Debug/net7.0/oops-concepts.dll
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/oops-concepts/bin/Debug/net7.0/oops-concepts.pdb
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/oops-concepts/obj/Debug/net7.0/oops-concepts.csproj.AssemblyReference.cache
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/oops-concepts/obj/Debug/net7.0/oops-concepts.GeneratedMSBuildEditorConfig.editorconfig
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/oops-concepts/obj/Debug/net7.0/oops-concepts.AssemblyInfoInputs.cache
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/oops-concepts/obj/Debug/net7.0/oops-concepts.AssemblyInfo.cs
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/oops-concepts/obj/Debug/net7.0/oops-concepts.csproj.CoreCompileInputs.cache
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/oops-concepts/obj/Debug/net7.0/oops-concepts.dll
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/oops-concepts/obj/Debug/net7.0/refint/oops-concepts.dll
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/oops-concepts/obj/Debug/net7.0/oops-concepts.pdb
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/oops-concepts/obj/Debug/net7.0/oops-concepts.genruntimeconfig.cache
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/oops-concepts/obj/Debug/net7.0/ref/oops-concepts.dll
