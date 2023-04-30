@@ -12,7 +12,8 @@ namespace Program {
         public static void Main(string[] args)
         {
         // objects
-           Vechile bmw = new Vechile("BMW");
+           Bike Himalayan =  new Bike("RE");
+           Himalayan.Turnon();
         }
     }
 }

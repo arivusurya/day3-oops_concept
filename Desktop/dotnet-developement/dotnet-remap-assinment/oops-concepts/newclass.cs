@@ -5,9 +5,13 @@ namespace oops_concepts
     // it also have the properties{variable for that perticular class} and methods to manipulate data;
     public class Vechile
     {   
-
+        public string Name ;
        public Vechile(string brand){
-            Console.WriteLine($"Welcome to  {brand}");
+            Name = brand;
+       }
+
+       public void Turnon(){
+            Console.WriteLine("Vechile Turned On");
        }
     }
 }
