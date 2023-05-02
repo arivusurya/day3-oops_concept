@@ -12,9 +12,10 @@ namespace Program {
         public static void Main(string[] args)
         {
             Additon addobj = new Additon();
-            addobj.Add(2,3);
-            addobj.Add(2,3,4);
-            
+            addobj.calcutae(3,4);
+            Subraction subobj = new Subraction();
+            subobj.calcutae(3,4);
+
         }
     }
 }
