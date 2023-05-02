@@ -11,12 +11,14 @@ namespace Program {
     {
         public static void Main(string[] args)
         {
-         MethodTypes meth = new MethodTypes();
-         meth.Add(1,2);
-         bool equal = meth.compare(2,4);
-         System.Console.WriteLine(equal);
-        int value =  meth.Multiply(2,3);
-        System.Console.WriteLine("value = " +   value);
+            int x = 4;
+            int y =8;
+            int output = 0;
+           ValueAndRefferne obj = new ValueAndRefferne();
+            System.Console.WriteLine( obj.Value(4,5));
+            obj.Ref(ref output , x, y);
+           System.Console.WriteLine(output);
+
         }
     }
 }
