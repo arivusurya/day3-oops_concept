@@ -2,7 +2,7 @@
 using System.Collections;
 using System.Text;
 using System.Threading;
-using oops_concepts;
+using OOPS_Concept;
 
 
 namespace Program {
@@ -11,9 +11,11 @@ namespace Program {
     {
         public static void Main(string[] args)
         {
-        // objects
-           Bike Himalayan =  new Bike("RE");
-           Himalayan.Turnon();
+            Human obj1 = new Human();
+            obj1.PrintName();
+            Ares ares = new Ares();
+            ares.PrintName();    
+         
         }
     }
 }
