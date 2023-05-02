@@ -11,8 +11,12 @@ namespace Program {
     {
         public static void Main(string[] args)
         {
-           Rectange rect = new Rectange();
-           rect.showshape();
+         MethodTypes meth = new MethodTypes();
+         meth.Add(1,2);
+         bool equal = meth.compare(2,4);
+         System.Console.WriteLine(equal);
+        int value =  meth.Multiply(2,3);
+        System.Console.WriteLine("value = " +   value);
         }
     }
 }
