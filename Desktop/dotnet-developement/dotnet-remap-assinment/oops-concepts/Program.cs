@@ -11,11 +11,10 @@ namespace Program {
     {
         public static void Main(string[] args)
         {
-            Human obj1 = new Human();
-            obj1.PrintName();
-            Ares ares = new Ares();
-            ares.PrintName();    
-         
+            Additon addobj = new Additon();
+            addobj.Add(2,3);
+            addobj.Add(2,3,4);
+            
         }
     }
 }
