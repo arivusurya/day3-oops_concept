@@ -11,11 +11,10 @@ namespace Program {
     {
         public static void Main(string[] args)
         {
-            Additon addobj = new Additon();
-            addobj.calcutae(3,4);
-            Subraction subobj = new Subraction();
-            subobj.calcutae(3,4);
-
+           Employee emp = new Employee();
+           emp.name = "Ares";
+           emp.salary = 2000000;
+           Console.WriteLine("Employee Name: " + emp.name + " Salary: " + emp.salary);
         }
     }
 }
